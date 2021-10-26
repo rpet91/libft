@@ -1,4 +1,4 @@
-# Libft
+# Libft #1
 
 My first project of the 42 school Codam. The main goal of this project is creating your own library by recreating some existing functions.
 
